@@ -1,0 +1,14 @@
+.container_home{
+    height: 700px;
+}
+
+.contenedor_clima{
+    display: flex;
+    background-color: #47889E;
+    border-radius: 5%;
+    margin-top: 100px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 10px 50px 10px;
+}

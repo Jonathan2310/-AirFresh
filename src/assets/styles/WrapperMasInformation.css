@@ -1,0 +1,31 @@
+.container_masInformation{
+    width: 100%;
+}
+.container_Information{
+    background-color: #47889E;
+    padding-top: 60px;
+    padding-bottom: 70px;
+    margin-bottom: 60px;
+    width: 100%;
+}
+.parafo{
+    color: #000000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font: 1em sans-serif;
+}
+.container_Information2{
+    width: 100%;
+    background-color: #47889E;
+    padding-top: 60px;
+    padding-bottom: 70px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+ol{
+    list-style: square inside;
+    font: 1em sans-serif;
+}
